@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there!
+- How to reach me: krishna.balsara02@gmail.com<br>
+- LinkedIn: www.linkedin.com/in/krishna-balsara
 
 <!--
 **krishnabalsara/krishnabalsara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
